@@ -1,0 +1,488 @@
+af
+afghanistan - Afghanistan
+ax
+aland-islands - Aland Islands
+al
+albania - Albania
+dz
+algeria - Algeria
+as
+american-samoa - American Samoa
+ad
+andorra - Andorra
+ao
+angola - Angola
+ai
+anguilla - Anguilla
+aq
+antarctica - Antarctica
+ag
+antigua-and-barbuda - Antigua and Barbuda
+ar
+argentina - Argentina
+am
+armenia - Armenia
+aw
+aruba - Aruba
+au
+australia - Australia
+at
+austria - Austria
+az
+azerbaijan - Azerbaijan
+bs
+bahamas - Bahamas
+bh
+bahrain - Bahrain
+bd
+bangladesh - Bangladesh
+bb
+barbados - Barbados
+by
+belarus - Belarus
+be
+belgium - Belgium
+bz
+belize - Belize
+bj
+benin - Benin
+bm
+bermuda - Bermuda
+bt
+bhutan - Bhutan
+bo
+bolivia-(plurinational-state-of) - Bolivia (Plurinational State of)
+bq
+bonaire-sint-eustatius-and-saba - Bonaire, Sint Eustatius and Saba
+ba
+bosnia-and-herzegovina - Bosnia and Herzegovina
+bw
+botswana - Botswana
+bv
+bouvet-island - Bouvet Island
+br
+brazil - Brazil
+io
+british-indian-ocean-territory - British Indian Ocean Territory
+bn
+brunei-darussalam - Brunei Darussalam
+bg
+bulgaria - Bulgaria
+bf
+burkina-faso - Burkina Faso
+bi
+burundi - Burundi
+cv
+cabo-verde - Cabo Verde
+kh
+cambodia - Cambodia
+cm
+cameroon - Cameroon
+ca
+canada - Canada
+ky
+cayman-islands - Cayman Islands
+cf
+central-african-republic - Central African Republic
+td
+chad - Chad
+cl
+chile - Chile
+cn
+china - China
+co
+colombia - Colombia
+km
+comoros - Comoros
+cg
+congo - Congo
+cd
+congo-(democratic-republic-of-the) - Congo (Democratic Republic of the)
+ck
+cook-islands - Cook Islands
+cr
+costa-rica - Costa Rica
+ci
+cote-divoire - Cote d'Ivoire
+hr
+croatia - Croatia
+cu
+cuba - Cuba
+cw
+curacao - Curaçao
+cy
+cyprus - Cyprus
+cz
+czechia - Czechia
+dk
+denmark - Denmark
+dj
+djibouti - Djibouti
+dm
+dominica - Dominica
+do
+dominican-republic - Dominican Republic
+ec
+ecuador - Ecuador
+eg
+egypt - Egypt
+sv
+el-salvador - El Salvador
+gq
+equatorial-guinea - Equatorial Guinea
+er
+eritrea - Eritrea
+ee
+estonia - Estonia
+et
+ethiopia - Ethiopia
+fk
+falkland-islands-(malvinas) - Falkland Islands (Malvinas)
+fo
+faroe-islands - Faroe Islands
+fj
+fiji - Fiji
+fi
+finland - Finland
+fr
+france - France
+gf
+french-guiana - French Guiana
+pf
+french-polynesia - French Polynesia
+ga
+gabon - Gabon
+gm
+gambia - Gambia
+ge
+georgia - Georgia
+de
+germany - Germany
+gh
+ghana - Ghana
+gi
+gibraltar - Gibraltar
+gr
+greece - Greece
+gl
+greenland - Greenland
+gd
+grenada - Grenada
+gp
+guadeloupe - Guadeloupe
+gu
+guam - Guam
+gt
+guatemala - Guatemala
+gg
+guernsey - Guernsey
+gn
+guinea - Guinea
+gw
+guinea-bissau - Guinea-Bissau
+gy
+guyana - Guyana
+ht
+haiti - Haiti
+va
+holy-see - Holy See
+hn
+honduras - Honduras
+hk
+hong-kong - Hong Kong
+hu
+hungary - Hungary
+is
+iceland - Iceland
+in
+india - India
+id
+indonesia - Indonesia
+ir
+iran-(islamic-republic-of) - Iran (Islamic Republic of)
+iq
+iraq - Iraq
+ie
+ireland - Ireland
+im
+isle-of-man - Isle of Man
+il
+israel - Israel
+it
+italy - Italy
+jm
+jamaica - Jamaica
+jp
+japan - Japan
+je
+jersey - Jersey
+jo
+jordan - Jordan
+kz
+kazakhstan - Kazakhstan
+ke
+kenya - Kenya
+ki
+kiribati - Kiribati
+kp
+korea-(democratic-peoples-republic-of) - Korea (Democratic People's Republic of)
+kr
+korea-(republic-of) - Korea (Republic of)
+kw
+kuwait - Kuwait
+kg
+kyrgyzstan - Kyrgyzstan
+la
+lao-peoples-democratic-republic - Lao People's Democratic Republic
+lv
+latvia - Latvia
+lb
+lebanon - Lebanon
+ls
+lesotho - Lesotho
+lr
+liberia - Liberia
+ly
+libya - Libya
+li
+liechtenstein - Liechtenstein
+lt
+lithuania - Lithuania
+lu
+luxembourg - Luxembourg
+mo
+macao - Macao
+mk
+north-macedonia - North Macedonia
+mg
+madagascar - Madagascar
+mw
+malawi - Malawi
+my
+malaysia - Malaysia
+mv
+maldives - Maldives
+ml
+mali - Mali
+mt
+malta - Malta
+mh
+marshall-islands - Marshall Islands
+mq
+martinique - Martinique
+mr
+mauritania - Mauritania
+mu
+mauritius - Mauritius
+yt
+mayotte - Mayotte
+mx
+mexico - Mexico
+fm
+micronesia-(federated-states-of) - Micronesia (Federated States of)
+md
+moldova-(republic-of) - Moldova (Republic of)
+mc
+monaco - Monaco
+mn
+mongolia - Mongolia
+me
+montenegro - Montenegro
+ms
+montserrat - Montserrat
+ma
+morocco - Morocco
+mz
+mozambique - Mozambique
+mm
+myanmar - Myanmar
+na
+namibia - Namibia
+nr
+nauru - Nauru
+np
+nepal - Nepal
+nl
+netherlands - Netherlands
+nc
+new-caledonia - New Caledonia
+nz
+new-zealand - New Zealand
+ni
+nicaragua - Nicaragua
+ne
+niger - Niger
+ng
+nigeria - Nigeria
+nu
+niue - Niue
+nf
+norfolk-island - Norfolk Island
+mp
+northern-mariana-islands - Northern Mariana Islands
+no
+norway - Norway
+om
+oman - Oman
+pk
+pakistan - Pakistan
+pw
+palau - Palau
+ps
+palestine-state-of - Palestine, State of
+pa
+panama - Panama
+pg
+papua-new-guinea - Papua New Guinea
+py
+paraguay - Paraguay
+pe
+peru - Peru
+ph
+philippines - Philippines
+pn
+pitcairn - Pitcairn
+pl
+poland - Poland
+pt
+portugal - Portugal
+pr
+puerto-rico - Puerto Rico
+qa
+qatar - Qatar
+re
+reunion - Reunion
+ro
+romania - Romania
+ru
+russian-federation - Russian Federation
+rw
+rwanda - Rwanda
+bl
+saint-barthelemy - Saint Barthelemy
+sh
+saint-helena-ascension-and-tristan-da-cunha - Saint Helena, Ascension and Tristan da Cunha
+kn
+saint-kitts-and-nevis - Saint Kitts and Nevis
+lc
+saint-lucia - Saint Lucia
+mf
+saint-martin-(french-part) - Saint Martin (French Part)
+pm
+saint-pierre-and-miquelon - Saint Pierre and Miquelon
+vc
+saint-vincent-and-the-grenadines - Saint Vincent and the Grenadines
+ws
+samoa - Samoa
+sm
+san-marino - San Marino
+st
+sao-tome-and-principe - Sao Tome and Principe
+sa
+saudi-arabia - Saudi Arabia
+sn
+senegal - Senegal
+rs
+serbia - Serbia
+sc
+seychelles - Seychelles
+sl
+sierra-leone - Sierra Leone
+sg
+singapore - Singapore
+sx
+sint-maarten-(dutch-part) - Sint Maarten (Dutch Part)
+sk
+slovakia - Slovakia
+si
+slovenia - Slovenia
+sb
+solomon-islands - Solomon Islands
+so
+somalia - Somalia
+za
+south-africa - South Africa
+gs
+south-georgia-and-the-south-sandwich-islands - South Georgia and the South Sandwich Islands
+ss
+south-sudan - South Sudan
+es
+spain - Spain
+lk
+sri-lanka - Sri Lanka
+sd
+sudan - Sudan
+sr
+suriname - Suriname
+sj
+svalbard-and-jan-mayen - Svalbard and Jan Mayen
+sz
+eswatini - Eswatini
+se
+sweden - Sweden
+ch
+switzerland - Switzerland
+sy
+syrian-arab-republic - Syrian Arab Republic
+tw
+taiwan-(province-of-china) - Taiwan (Province of China)
+tj
+tajikistan - Tajikistan
+tz
+tanzania-united-republic-of - Tanzania, United Republic of
+th
+thailand - Thailand
+tl
+timor-leste - Timor-Leste
+tg
+togo - Togo
+tk
+tokelau - Tokelau
+to
+tonga - Tonga
+tt
+trinidad-and-tobago - Trinidad and Tobago
+tn
+tunisia - Tunisia
+tr
+turkey - Turkey
+tm
+turkmenistan - Turkmenistan
+tc
+turks-and-caicos-islands - Turks and Caicos Islands
+tv
+tuvalu - Tuvalu
+ug
+uganda - Uganda
+ua
+ukraine - Ukraine
+ae
+united-arab-emirates - United Arab Emirates
+gb
+united-kingdom-of-great-britain-and-northern-ireland - United Kingdom of Great Britain and Northern Ireland
+us
+united-states-of-america - United States of America
+um
+united-states-minor-outlying-islands - United States Minor Outlying Islands
+uy
+uruguay - Uruguay
+uz
+uzbekistan - Uzbekistan
+vu
+vanuatu - Vanuatu
+ve
+venezuela-(bolivarian-republic-of) - Venezuela (Bolivarian Republic of)
+vn
+viet-nam - Viet Nam
+vg
+virgin-islands-(british) - Virgin Islands (British)
+vi
+virgin-islands-(u.s.) - Virgin Islands (U.S.)
+wf
+wallis-and-futuna - Wallis and Futuna
+ye
+yemen - Yemen
+zm
+zambia - Zambia
+zwzimbabwe - Zimbabwe
+
